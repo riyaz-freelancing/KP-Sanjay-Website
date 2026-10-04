@@ -7,31 +7,31 @@ export const TestimonialsSection = () => {
   const proofs = [
     {
       id: "p1",
-      name: "Jagdish Sonar",
-      role: "AGRO PRODUCTS EXPORTER",
-      location: "Maharashtra, India",
-      quote: "KP Sanjay's mentorship completely transformed my understanding of international trade. The step-by-step guidance on customs clearance and buyer verification gave me confidence to complete my first container shipment to Dubai!"
+      name: "Tariq Al-Mansoor",
+      role: "FOOD IMPORT DIRECTOR",
+      location: "Dubai, UAE",
+      quote: "The quality of Basmati Rice and Spices exported by KP Sanjay's firm to Dubai was exceptional. Freight forwarding was on time, phytosanitary certificates were pristine, and container loading was handled professionally."
     },
     {
       id: "p2",
-      name: "Ankit Sharma",
-      role: "CHEMICAL EXPORTER",
-      location: "Gujarat, India",
-      quote: "The EXIM Pathshala program gave me absolute clarity to setup my export business. From freight forwarding contracts to shipping documents, everything is taught with live practical examples. Highly recommended!"
+      name: "Jagdish Sonar",
+      role: "AGRO COMMODITY SUPPLIER",
+      location: "Maharashtra, India",
+      quote: "Working with KP Sanjay for product exports has been a seamless experience. His APEDA packing house facility in Mumbai handles sorting, grading, and cold storage with utmost precision."
     },
     {
       id: "p3",
       name: "Pankaj Chand",
-      role: "MANUFACTURER & EXPORTER",
+      role: "INTERNATIONAL TRADE PARTNER",
       location: "Punjab, India",
-      quote: "Practical training and live mentoring at its absolute best. KP Sanjay helped me format my buyer contracts and eliminate payment risk with LC terms. Now we are exporting regularly to African markets!"
+      quote: "KP Sanjay's end-to-end export execution is unmatched. From product sourcing to customs clearance and Letter of Credit verification, their team ensures zero hassle for international buyers."
     },
     {
       id: "p4",
       name: "Kiran Patil",
-      role: "MERCHANT TRADER",
+      role: "SEAFOOD EXPORT CONSULTANT",
       location: "Karnataka, India",
-      quote: "Documentation and compliance training was fantastic. After joining this mentorship course, I comfortably handle all customs formalities and bank paperwork for my export firm."
+      quote: "Extremely reliable exporter for marine products and fresh fruits. Excellent packaging quality, strict compliance, and fast port dispatch."
     }
   ];
 
@@ -57,15 +57,15 @@ export const TestimonialsSection = () => {
         <div className="text-center max-w-3xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold uppercase tracking-widest">
             <Award className="w-3.5 h-3.5 text-amber-400" />
-            <span>VERIFIED EXPORTER PROOFS</span>
+            <span>GLOBAL BUYER & PARTNER REVIEWS</span>
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight">
-            Real Exporters, <span className="text-gradient-gold">Real Success</span>
+            Global Trust, <span className="text-gradient-gold">Uncompromised Quality</span>
           </h2>
 
           <p className="text-base sm:text-lg text-slate-300 font-medium max-w-2xl mx-auto">
-            See how our practical mentorship empowers real entrepreneurs across India to launch and scale profitable export enterprises.
+            See what international importers and trade partners say about our export product quality, packing standards, and shipping reliability.
           </p>
         </div>
 

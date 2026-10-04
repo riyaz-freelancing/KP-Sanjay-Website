@@ -10,7 +10,6 @@ import { HomePage } from './pages/HomePage';
 import { AboutPage } from './pages/AboutPage';
 import { ProductsPage } from './pages/ProductsPage';
 import { CategoryPage } from './pages/CategoryPage';
-import { CoursesPage } from './pages/CoursesPage';
 import { DailyGKPage } from './pages/DailyGKPage';
 import { ContactPage } from './pages/ContactPage';
 import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage';
@@ -30,7 +29,6 @@ export default function App() {
               <Route path="/about" element={<AboutPage />} />
               <Route path="/products" element={<ProductsPage />} />
               <Route path="/category/:categorySlug" element={<CategoryPage />} />
-              <Route path="/courses" element={<CoursesPage />} />
               <Route path="/daily-gk" element={<DailyGKPage />} />
               <Route path="/contact" element={<ContactPage />} />
               <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />

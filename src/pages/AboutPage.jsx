@@ -111,8 +111,8 @@ export const AboutPage = () => {
             <div className="w-16 h-16 rounded-full border border-slate-200/90 flex items-center justify-center mb-4">
               <Users className="w-8 h-8 text-white" />
             </div>
-            <div className="text-3xl font-black text-white tracking-tight mb-1">2,000+</div>
-            <div className="text-xs font-extrabold text-orange-400 uppercase tracking-widest">STUDENTS TRAINED</div>
+            <div className="text-3xl font-black text-white tracking-tight mb-1">50+</div>
+            <div className="text-xs font-extrabold text-orange-400 uppercase tracking-widest">EXPORT DESTINATIONS</div>
           </div>
 
           <div className="p-8 rounded-2xl bg-[#3b1807] border border-amber-900/60 shadow-xl flex flex-col items-center justify-center text-center">
@@ -127,16 +127,16 @@ export const AboutPage = () => {
             <div className="w-16 h-16 rounded-full border border-slate-200/90 flex items-center justify-center mb-4">
               <Globe className="w-8 h-8 text-white" />
             </div>
-            <div className="text-3xl font-black text-white tracking-tight mb-1">12+</div>
-            <div className="text-xs font-extrabold text-orange-400 uppercase tracking-widest">GLOBAL NETWORK</div>
+            <div className="text-3xl font-black text-white tracking-tight mb-1">100%</div>
+            <div className="text-xs font-extrabold text-orange-400 uppercase tracking-widest">AUTHENTIC PRODUCTS</div>
           </div>
 
           <div className="p-8 rounded-2xl bg-[#061234] border border-blue-900/50 shadow-xl flex flex-col items-center justify-center text-center">
             <div className="w-16 h-16 rounded-full border border-slate-200/90 flex items-center justify-center mb-4">
               <Heart className="w-8 h-8 text-white fill-white" />
             </div>
-            <div className="text-3xl font-black text-white tracking-tight mb-1">96%</div>
-            <div className="text-xs font-extrabold text-orange-400 uppercase tracking-widest">CLIENT SATISFACTION</div>
+            <div className="text-3xl font-black text-white tracking-tight mb-1">98%</div>
+            <div className="text-xs font-extrabold text-orange-400 uppercase tracking-widest">BUYER SATISFACTION</div>
           </div>
         </div>
 
@@ -147,10 +147,10 @@ export const AboutPage = () => {
               WHAT WE OFFER
             </span>
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-[#06102a] tracking-tight">
-              Complete solutions for your Import-Export Success
+              Complete Export Solutions & Premium Product Supply
             </h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
-              From training to global business execution, we provide end-to-end solutions to help you start, grow and scale your export-import business.
+              From direct farm sourcing to APEDA packing house operations, quality inspection, documentation, and worldwide sea freight.
             </p>
           </div>
 
@@ -160,9 +160,9 @@ export const AboutPage = () => {
               <div className="w-12 h-12 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
                 <Users className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-slate-900 mb-2">Export Mentorship</h3>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">Quality Farm Sourcing</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Step-by-step practical guidance to set up your IEC, find buyers, negotiate contracts, and execute shipments smoothly.
+                Direct procurement of authentic Indian Basmati rice, spices, fruits, vegetables, and marine seafood from certified growers.
               </p>
             </div>
 
@@ -170,9 +170,9 @@ export const AboutPage = () => {
               <div className="w-12 h-12 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">
                 <Package className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-slate-900 mb-2">Packing House Support</h3>
+              <h3 className="text-lg font-bold text-slate-900 mb-2">APEDA Packing House</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Access to our APEDA registered packing house in Mumbai for sorting, grading, cold chain storage, and export packaging.
+                APEDA registered packing house facility in Mumbai for grading, temperature-controlled cold storage, and export packaging.
               </p>
             </div>
 
@@ -231,23 +231,23 @@ export const AboutPage = () => {
         {/* CALL TO ACTION */}
         <div className="rounded-3xl bg-[#06102a] text-white p-8 sm:p-12 text-center space-y-6">
           <h3 className="text-2xl sm:text-3xl font-extrabold tracking-tight">
-            Ready to Begin Your Export Journey?
+            Looking for Premium Export Products from India?
           </h3>
           <p className="text-xs sm:text-sm text-slate-300 max-w-xl mx-auto">
-            Join 2,000+ successful exporters mentored by KP Sanjay. Get access to practical training, buyer connections, and packing house support.
+            Explore our catalog of Basmati rice, fresh spices, marine seafood, fruits, and processed food products ready for global shipment.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
             <Link 
-              to="/courses" 
+              to="/products" 
               className="px-6 py-3 rounded-xl bg-blue-600 text-white font-extrabold text-sm hover:bg-blue-500 transition-colors shadow-lg"
             >
-              Explore Training Programs
+              Browse Product Catalog
             </Link>
             <Link 
               to="/contact" 
               className="px-6 py-3 rounded-xl bg-amber-500 text-slate-950 font-extrabold text-sm hover:bg-amber-400 transition-colors shadow-lg"
             >
-              Contact KP Sanjay
+              Request Bulk Quote
             </Link>
           </div>
         </div>

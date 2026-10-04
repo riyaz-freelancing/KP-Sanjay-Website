@@ -48,13 +48,13 @@ export const PrivacyPolicyPage = () => {
               2. How We Use Your Information
             </h2>
             <p>
-              We use the collected information strictly for legitimate trade education and mentorship purposes:
+              We use the collected information strictly for legitimate commercial trade inquiries and export operations:
             </p>
             <ul className="list-disc pl-5 space-y-1 text-slate-700">
-              <li>To send requested EXIM proposal brochures, curriculum schedules, and seminar links.</li>
-              <li>To provide 1-on-1 export consultation and packing house support services.</li>
-              <li>To verify course enrollments and issue official KP Sanjay completion certificates.</li>
-              <li>To communicate important updates regarding export regulations, customs policies, and daily current affairs.</li>
+              <li>To send requested product export catalogs, commodity specifications, and pricing quotes.</li>
+              <li>To provide packing house services, quality inspection reports, and shipping logistics.</li>
+              <li>To process trade inquiry requests and verify export documentation compliance.</li>
+              <li>To communicate important updates regarding export regulations and customs policies.</li>
             </ul>
           </section>
 

@@ -24,7 +24,7 @@ export const Footer = () => {
             </Link>
 
             <p className="text-slate-300 text-xs sm:text-sm leading-relaxed font-normal">
-              Empowering individuals & businesses across India to build global, multi-million dollar export enterprises through practical hands-on mentorship and verified trade systems.
+              Supplying top-tier Indian agricultural commodities, marine seafood, Basmati rice, spices, fruits, and processed products to global markets worldwide.
             </p>
 
             {/* Social Icons */}
@@ -44,32 +44,32 @@ export const Footer = () => {
             </div>
           </div>
 
-          {/* Column 2: Programs */}
+          {/* Column 2: Export Products */}
           <div className="space-y-4">
-            <h4 className="text-xs sm:text-sm font-bold text-white uppercase tracking-wider">PROGRAMS & MENTORSHIP</h4>
+            <h4 className="text-xs sm:text-sm font-bold text-white uppercase tracking-wider">EXPORT PRODUCT CATEGORIES</h4>
             <ul className="space-y-2.5 text-xs sm:text-sm font-medium text-slate-300">
-              <li><Link to="/courses" className="hover:text-amber-300 transition-colors block py-0.5">Exim Pathshala (Complete EXIM)</Link></li>
-              <li><Link to="/courses" className="hover:text-amber-300 transition-colors block py-0.5">Export Kranti (Live Mentorship)</Link></li>
-              <li><Link to="/courses" className="hover:text-amber-300 transition-colors block py-0.5">E-com Export Mastery</Link></li>
-              <li><Link to="/daily-gk" className="hover:text-amber-300 transition-colors block py-0.5">Daily Current Affairs & EXIM GK</Link></li>
-              <li><Link to="/about" className="hover:text-amber-300 transition-colors block py-0.5">Customs Clearance & LC Mentorship</Link></li>
+              <li><Link to="/category/marine-seafood" className="hover:text-amber-300 transition-colors block py-0.5">Marine & Seafood Exports</Link></li>
+              <li><Link to="/category/rice-grains" className="hover:text-amber-300 transition-colors block py-0.5">Basmati Rice & Grains</Link></li>
+              <li><Link to="/category/spices" className="hover:text-amber-300 transition-colors block py-0.5">Spices & Condiments</Link></li>
+              <li><Link to="/category/fruits-vegetables" className="hover:text-amber-300 transition-colors block py-0.5">Fresh Fruits & Vegetables</Link></li>
+              <li><Link to="/category/dry-fruits" className="hover:text-amber-300 transition-colors block py-0.5">Dry Fruits & Nuts</Link></li>
             </ul>
           </div>
 
-          {/* Column 3: Featured Recognitions */}
+          {/* Column 3: Global Services & Recognitions */}
           <div className="space-y-4">
-            <h4 className="text-xs sm:text-sm font-bold text-white uppercase tracking-wider">FEATURED RECOGNITIONS</h4>
+            <h4 className="text-xs sm:text-sm font-bold text-white uppercase tracking-wider">EXPORT OPERATIONS & RECOGNITION</h4>
             <ul className="space-y-2.5 text-xs sm:text-sm font-medium text-slate-300">
               <li><Link to="/about" className="hover:text-amber-300 transition-colors block py-0.5">Maharashtra Business Icon Award</Link></li>
-              <li><Link to="/about" className="hover:text-amber-300 transition-colors block py-0.5">Packing House Operations (Mumbai)</Link></li>
-              <li><Link to="/courses" className="hover:text-amber-300 transition-colors block py-0.5">Verified Student Success Proofs</Link></li>
-              <li><Link to="/contact" className="hover:text-amber-300 transition-colors block py-0.5">Download Proposal Brochure (PDF)</Link></li>
+              <li><Link to="/about" className="hover:text-amber-300 transition-colors block py-0.5">APEDA Packing House (Mumbai)</Link></li>
+              <li><Link to="/products" className="hover:text-amber-300 transition-colors block py-0.5">Global Container Shipping</Link></li>
+              <li><Link to="/contact" className="hover:text-amber-300 transition-colors block py-0.5">Download Product Catalog (PDF)</Link></li>
             </ul>
           </div>
 
           {/* Column 4: Helpline & Contact */}
           <div className="space-y-4">
-            <h4 className="text-xs sm:text-sm font-bold text-white uppercase tracking-wider">EXIM HELPLINE</h4>
+            <h4 className="text-xs sm:text-sm font-bold text-white uppercase tracking-wider">EXIM TRADE HELPLINE</h4>
             <div className="space-y-3 text-xs sm:text-sm font-medium text-slate-300">
               <a href="tel:+919156062111" className="hover:text-amber-300 transition-colors flex items-center gap-2.5">
                 <PhoneCall className="w-4 h-4 text-amber-400 shrink-0" />
@@ -80,7 +80,7 @@ export const Footer = () => {
                 <span>info@kpsanjay.com</span>
               </a>
               <p className="text-xs text-slate-400 font-normal pt-1 leading-relaxed">
-                KP Sanjay Export Mentorship Hub, Mumbai, India
+                KP Sanjay Export Headquarters & Packing House, Mumbai, India
               </p>
             </div>
           </div>

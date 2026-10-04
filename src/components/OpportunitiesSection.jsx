@@ -99,15 +99,15 @@ export const OpportunitiesSection = () => {
         <div className="max-w-3xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-extrabold uppercase tracking-widest">
             <Briefcase className="w-3.5 h-3.5 text-amber-500" />
-            <span>CAREER & BUSINESS PATHWAYS</span>
+            <span>GLOBAL EXPORT HORIZONS</span>
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#06102a] tracking-tight leading-tight">
-            Opportunities After <span className="text-gradient-amber">Training</span>
+            End-to-End <span className="text-gradient-amber">Product Supply Chain</span>
           </h2>
 
           <p className="text-base sm:text-lg text-slate-600 font-medium leading-relaxed max-w-2xl mx-auto">
-            After completing our mentorship program, learners can launch independent export businesses or build high-growth international trade consulting careers.
+            We manage every phase of international trade operations — from direct farm procurement to APEDA packaging, customs clearing, and ocean container delivery to global destination ports.
           </p>
         </div>
 

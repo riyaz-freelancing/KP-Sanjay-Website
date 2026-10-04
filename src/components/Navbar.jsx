@@ -63,11 +63,11 @@ export const Navbar = () => {
               <div className="flex items-center gap-2">
                 <span className="font-black text-xl text-white tracking-tight whitespace-nowrap">KP SANJAY</span>
                 <span className="hidden sm:inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-full bg-amber-500/10 text-amber-300 border border-amber-500/30 whitespace-nowrap">
-                  <Award className="w-3 h-3 text-amber-400" /> MENTOR
+                  <Award className="w-3 h-3 text-amber-400" /> EXPORTER
                 </span>
               </div>
               <p className="text-[10px] font-semibold tracking-wider text-slate-400 uppercase whitespace-nowrap">
-                International Trade Specialist
+                Global Product Export Enterprise
               </p>
             </div>
           </Link>
@@ -126,13 +126,6 @@ export const Navbar = () => {
             </div>
 
             <Link 
-              to="/courses" 
-              className={`transition-colors whitespace-nowrap ${isActive('/courses') ? 'text-amber-400 font-bold' : 'text-slate-300 hover:text-white'}`}
-            >
-              Courses
-            </Link>
-
-            <Link 
               to="/contact" 
               className={`transition-colors whitespace-nowrap ${isActive('/contact') ? 'text-amber-400 font-bold' : 'text-slate-300 hover:text-white'}`}
             >
@@ -143,10 +136,10 @@ export const Navbar = () => {
           {/* Desktop Right CTA */}
           <div className="hidden lg:flex items-center gap-4">
             <Link
-              to="/courses"
+              to="/products"
               className="px-6 py-2.5 rounded-full bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-extrabold text-xs tracking-wide shadow-glow-amber transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2"
             >
-              <span>Enroll Mentorship</span>
+              <span>Explore Products</span>
               <ArrowRight className="w-4 h-4 stroke-[2.5]" />
             </Link>
           </div>
@@ -194,14 +187,6 @@ export const Navbar = () => {
             </Link>
 
             <Link
-              to="/courses"
-              onClick={() => setMobileMenuOpen(false)}
-              className={`block px-4 py-3 rounded-xl font-bold text-sm ${isActive('/courses') ? 'bg-amber-500/20 text-amber-300 border border-amber-500/30' : 'text-slate-200 hover:bg-white/5'}`}
-            >
-              Mentorship Courses
-            </Link>
-
-            <Link
               to="/contact"
               onClick={() => setMobileMenuOpen(false)}
               className={`block px-4 py-3 rounded-xl font-bold text-sm ${isActive('/contact') ? 'bg-amber-500/20 text-amber-300 border border-amber-500/30' : 'text-slate-200 hover:bg-white/5'}`}
@@ -211,11 +196,11 @@ export const Navbar = () => {
 
             <div className="pt-3">
               <Link
-                to="/courses"
+                to="/products"
                 onClick={() => setMobileMenuOpen(false)}
                 className="w-full py-4 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 font-black text-center block text-sm shadow-glow-amber"
               >
-                Enroll Mentorship Course
+                Explore Product Catalog
               </Link>
             </div>
           </div>

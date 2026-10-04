@@ -61,7 +61,7 @@ export const ContactSection = () => {
               </h2>
 
               <p className="text-base sm:text-lg text-slate-300 leading-relaxed max-w-xl font-normal">
-                Download our official 2026 EXIM proposal brochure to explore complete course modules, practical field training guidelines, and direct mentor support.
+                Download our official 2026 Export Product Catalog brochure to explore complete product specifications, packaging standards, and bulk export inquiry guidelines.
               </p>
 
               <div className="pt-4 flex flex-col sm:flex-row items-start sm:items-center gap-6 text-xs sm:text-sm font-semibold text-slate-300 border-t border-white/10">
@@ -89,9 +89,9 @@ export const ContactSection = () => {
                 {submitted ? (
                   <div className="py-8 text-center space-y-4">
                     <CheckCircle2 className="w-14 h-14 text-emerald-400 mx-auto" />
-                    <h4 className="text-xl font-bold text-white">Brochure Dispatched!</h4>
+                    <h4 className="text-xl font-bold text-white">Catalog Dispatched!</h4>
                     <p className="text-xs text-slate-300 leading-relaxed">
-                      Thank you! Our EXIM Brochure PDF has dispatched. Check your browser downloads to review the complete proposal.
+                      Thank you! Our Export Product Catalog PDF has dispatched. Check your browser downloads to review our products and export specifications.
                     </p>
                     <button
                       onClick={() => setSubmitted(false)}
@@ -135,7 +135,7 @@ export const ContactSection = () => {
                       className="w-full py-4 rounded-xl bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs uppercase tracking-wider shadow-glow-amber flex items-center justify-center gap-2 hover:scale-[1.02] active:scale-95 transition-all"
                     >
                       <Download className="w-4 h-4" />
-                      <span>DOWNLOAD FREE BROCHURE (PDF)</span>
+                      <span>DOWNLOAD PRODUCT CATALOG (PDF)</span>
                     </button>
                   </form>
                 )}

@@ -42,7 +42,7 @@ export const TermsPage = () => {
               2. Intellectual Property Rights
             </h2>
             <p>
-              All curriculum modules, EXIM Pathshala study materials, current affairs digital sheets, video recordings, buyer verification checklists, and proprietary documentation guides are the exclusive intellectual property of KP Sanjay. Unlawful reproduction, redistribution, or resale of course materials is strictly prohibited.
+              All trade specifications, export product catalogs, images, documentation guides, and proprietary trade materials are the exclusive intellectual property of KP Sanjay. Unlawful reproduction or unauthorized commercial distribution is strictly prohibited.
             </p>
           </section>
 

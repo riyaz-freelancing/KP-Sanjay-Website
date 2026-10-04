@@ -30,9 +30,9 @@ export const AboutSection = () => {
                 <div className="absolute bottom-6 left-6 right-6 p-4 rounded-2xl glass-card-editorial border border-white/15 backdrop-blur-xl">
                   <div className="flex items-center gap-2 text-amber-300 font-bold text-sm">
                     <Award className="w-4 h-4 text-amber-400 shrink-0" />
-                    <span>Verified International Trade Mentor</span>
+                    <span>Verified Global Product Exporter</span>
                   </div>
-                  <p className="text-xs text-slate-300 mt-1">Direct Hands-on Guidance for Indian Exporters</p>
+                  <p className="text-xs text-slate-300 mt-1">Direct Quality Sourcing & APEDA Packing Operations</p>
                 </div>
               </div>
             </div>
@@ -47,15 +47,15 @@ export const AboutSection = () => {
             </div>
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight">
-              Building India's Next Generation of <span className="text-gradient-gold">Global Exporters</span>
+              Exporting Premium Indian Commodities <span className="text-gradient-gold">Worldwide</span>
             </h2>
 
             <div className="space-y-4 text-base text-slate-300 leading-relaxed font-normal">
               <p>
-                KP Sanjay is a seasoned export professional with over a decade of hands-on experience in the global trade industry. With a strong foundation in international business, he has built an impeccable reputation as a trusted exporter and consultant in agricultural commodities, fruits, vegetables, spices, and marine products.
+                KP Sanjay is a seasoned export professional with over a decade of hands-on experience in the global trade industry. With a strong foundation in international business, he has built an impeccable reputation as a trusted exporter of agricultural commodities, fruits, vegetables, spices, Basmati rice, and marine products.
               </p>
               <p>
-                Having expanded export operations to more than 12 countries across the Middle East, Europe, and Asia, KP Sanjay brings real, unvarnished field expertise to emerging exporters—teaching exact buyer acquisition formulas, customs clearance, Letters of Credit (LC), and risk-free payment terms.
+                Having expanded export operations to more than 50 countries across the Middle East, Europe, and Asia, KP Sanjay leads end-to-end export execution—ensuring direct farm sourcing, APEDA-certified packing, strict quality compliance, and seamless customs logistics.
               </p>
             </div>
 
@@ -64,19 +64,19 @@ export const AboutSection = () => {
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                 <span className="text-sm font-semibold text-slate-200">
-                  Step-by-step guidance through real international trade execution
+                  APEDA certified packing house & cold storage facility in Mumbai
                 </span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                 <span className="text-sm font-semibold text-slate-200">
-                  Verified buyer finding strategies & LC payment security formulas
+                  Direct farm-gate quality procurement & phytosanitary compliance
                 </span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                 <span className="text-sm font-semibold text-slate-200">
-                  100% practical field experience guarantee — Zero boring textbook theory
+                  Guaranteed international shipping standards & port logistics handling
                 </span>
               </div>
             </div>

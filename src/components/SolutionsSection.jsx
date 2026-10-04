@@ -8,36 +8,36 @@ export const SolutionsSection = () => {
     {
       num: "01",
       icon: Lightbulb,
-      title: "Beginner Friendly Mentorship",
-      desc: "No prior experience needed. Our step-by-step curriculum makes international trade accessible to everyone, regardless of background.",
-      details: "Step-by-step company registration, IEC code setup, and foundational EXIM knowledge.",
+      title: "Direct Farm Procurement & Quality Sourcing",
+      desc: "We source authentic Indian agricultural produce, spices, marine foods, and rice directly from certified regional farms and processing units.",
+      details: "Quality inspection, APEDA standards, grading, and organic origin verification.",
       accent: "from-amber-500/20 to-orange-500/20",
       iconColor: "text-amber-400"
     },
     {
       num: "02",
       icon: Hourglass,
-      title: "100% Practical Field Training",
-      desc: "Real case studies, live buyer finding demos, container packing house visits, and hands-on practice using actual customs paperwork.",
-      details: "Live container loading, BL verification, customs clearance, and port inspection protocols.",
+      title: "APEDA Certified Packing House Facility",
+      desc: "Operating a fully equipped packing house facility in Mumbai for sorting, temperature-controlled cold storage, and export palletization.",
+      details: "Cold chain logistics, reefer container packing, phytosanitary checks & loading.",
       accent: "from-blue-500/20 to-cyan-500/20",
       iconColor: "text-cyan-400"
     },
     {
       num: "03",
       icon: Heart,
-      title: "Lifetime Mentorship Support",
-      desc: "Access our exclusive exporter community, direct mentor Q&A sessions, updated trade guidelines, and buyer risk protection forever.",
-      details: "Continuous post-training guidance, buyer contract audits, and LC payment verification.",
+      title: "Customs Clearance & Trade Documentation",
+      desc: "Complete error-free export documentation including Bill of Lading, Certificate of Origin, FSSAI clearance, and customs filing.",
+      details: "ICEGATE compliance, LC payment verification, and port clearance protocols.",
       accent: "from-purple-500/20 to-pink-500/20",
       iconColor: "text-purple-400"
     },
     {
       num: "04",
       icon: Users,
-      title: "Active Industry Mentors",
-      desc: "Learn directly from active exporters and trade specialists with over 12+ years of field experience in international logistics.",
-      details: "Direct one-on-one mentorship sessions with practicing export business leaders.",
+      title: "Global Ocean & Air Freight Delivery",
+      desc: "Seamless ocean liner booking (FCL & LCL) and air cargo dispatch servicing major sea ports and airports in Middle East, Europe, and Asia.",
+      details: "50+ destination ports, real-time shipment tracking, and competitive freight.",
       accent: "from-emerald-500/20 to-teal-500/20",
       iconColor: "text-emerald-400"
     }
@@ -55,7 +55,7 @@ export const SolutionsSection = () => {
         <div className="max-w-3xl space-y-4 text-left">
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-300 text-xs font-bold uppercase tracking-widest">
             <Zap className="w-3.5 h-3.5 text-amber-400" />
-            <span>INTERACTIVE SERVICES SHOWCASE</span>
+            <span>EXPORT OPERATIONS & CAPABILITIES</span>
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white tracking-tight leading-tight">
@@ -63,7 +63,7 @@ export const SolutionsSection = () => {
           </h2>
 
           <p className="text-base sm:text-lg text-slate-300 font-medium leading-relaxed">
-            We don’t just teach theory — we build real exporters with practical skills, live buyer-finding mentorship, and a powerful global trade network.
+            From direct farm sourcing to APEDA packing house operations, customs clearance, and global ocean freight delivery — we handle complete product exports under one roof.
           </p>
         </div>
 
