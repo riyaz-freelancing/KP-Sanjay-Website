@@ -1,0 +1,134 @@
+{
+  "dailyAffairs": [
+    {
+      "id": "affair-1789307200000",
+      "date": "2026-09-12",
+      "displayDate": "12 September 2026",
+      "dayName": "Friday",
+      "title": "BRICS Summit 2026 & Digital Land Records Modernisation",
+      "category": "International Relations & National Policy",
+      "subtitle": "UPSC | APPSC | TGPSC | Competitive & Export Exam Special",
+      "posterUrl": "/uploads/brics_2026_poster.jpg",
+      "pdfUrl": "#",
+      "tagline": "Read • Revise • Practice • Succeed",
+      "topics": [
+        {
+          "id": "t-1",
+          "number": "1",
+          "title": "18th BRICS Summit 2026",
+          "details": [
+            "Venue : Bharat Mandapam, New Delhi (న్యూఢిల్లీలోని భారత్ మంటపం)",
+            "Dates : 12 – 13 September 2026",
+            "India : BRICS Chair 2026 (భారతదేశం 2026లో BRICS అధ్యక్షత)",
+            "New Members : Saudi Arabia, UAE, Egypt, Iran, Ethiopia, Indonesia (కొత్త సభ్యులు: సౌదీ అరేబియా, యూఏఈ, ఈజిప్ట్, ఇరాన్, ఇథియోపియా, ఇండోనేషియా)",
+            "Significance : Strengthens Global South cooperation and inclusive growth (గ్లోబల్ సౌత్ సహకారం, సమగ్ర అభివృద్ధికి బలం)"
+          ]
+        },
+        {
+          "id": "t-2",
+          "number": "2",
+          "title": "BRICS – Bharat Innovates Exposition",
+          "details": [
+            "Venue : Bharat Mandapam, New Delhi (భారత్ మంటపం, న్యూ ఢిల్లీ)",
+            "Dates : 11 – 12 September 2026",
+            "Organised by : Ministry of Education + Ministry of External Affairs (విద్యా మంత్రిత్వ శాఖ + విదేశాంగ మంత్రిత్వ శాఖ)",
+            "Participants : 37 Indian deep-tech innovators / start-ups (37 భారతీయ డీప్-టెక్ ఇన్నోవేటర్లు / స్టార్టప్‌లు)",
+            "Focus : Research, Innovations and Start-up Ecosystem (పరిశోధన, నూతన ఆవిష్కరణలు, స్టార్టప్ వ్యవస్థ)"
+          ]
+        },
+        {
+          "id": "t-3",
+          "number": "3",
+          "title": "DILRMP 3.0 – Digital Land Records Modernization Programme",
+          "details": [
+            "Approved for : 2026 – 2031 (అనుమతి: 2026 - 2031)",
+            "Total Outlay : ₹565.50 crore (మొత్తం వ్యయం: ₹565.50 కోట్లు)",
+            "Nodal Ministry : Ministry of Rural Development (నోడల్ మంత్రిత్వ శాఖ: గ్రామీణాభివృద్ధి మంత్రిత్వ శాఖ)",
+            "Key Feature : GIS-enabled \"Land Stack\" (ముఖ్య ప్రత్యేకత: GIS ఆధారిత \"ల్యాండ్ స్టాక్\")",
+            "Bhu-Aadhaar : 14-digit Unique Land Parcel ID (ULPIN) (భూ-ఆధార్: 14 అంకెల ప్రత్యేక భూ పార్సెల్ ID)",
+            "Objective : Digitize land records, improve transparency and governance (భూ రికార్డుల డిజిటలైజేషన్, పారదర్శకత పెంపు)"
+          ]
+        },
+        {
+          "id": "t-4",
+          "number": "4",
+          "title": "Defence Acquisition Council (DAC) – ₹1.10 Lakh Crore",
+          "details": [
+            "Approved : Acceptance of Necessity (AoN) (అమోదం: అవసరత అంగీకారం)",
+            "Estimated value : ₹1,10,000 crore (₹1.10 Lakh crore) (అంచనా విలువ: ₹1,10,000 కోట్లు)",
+            "Indigenous content : ~98% to be sourced from Indian industry (దేశీయ వనరులు: సుమారు 98% భారతీయ పరిశ్రమ నుండే)",
+            "Key acquisitions : CBRN Recce Vehicles, ALHs, mine layers, bridge systems, logistic support vehicles (ముఖ్య కొనుగోళ్లు: CBRN రక్షణ వాహనాలు, ALH, గనుల పరికరాలు)",
+            "Significance : Boost to Atmanirbhar Bharat and indigenisation in defence (ఆత్మనిర్భర్ భారత్‌కు బలం, రక్షణ రంగ స్వదేశీకరణ)"
+          ]
+        },
+        {
+          "id": "t-5",
+          "number": "5",
+          "title": "Critical Minerals – India's Strategic Priority",
+          "details": [
+            "Importance : Essential for energy security, industrial competitiveness and national security (ప్రాముఖ్యత: ఇంధన భద్రత, పారిశ్రామిక పోటీతత్వానికి కీలకం)",
+            "Key sectors : EVs, semiconductors, clean energy, telecom, aerospace, defence (ముఖ్య రంగాలు: EVలు, సెమీకండక్టర్లు, క్లీన్ ఎనర్జీ, టెలికాం)",
+            "India's focus : Reduce import dependence and build resilient domestic & global supply chains (భారత్ ఫోకస్: దిగుమతులపై ఆధారపడటాన్ని తగ్గించడం)"
+          ]
+        }
+      ],
+      "mcqs": [
+        {
+          "id": "q-1",
+          "question": "Which country holds the BRICS Chairmanship for the 2026 Summit?",
+          "options": ["Brazil", "India", "Russia", "China"],
+          "correctIndex": 1,
+          "explanation": "India holds the BRICS Chairmanship for 2026, hosting the 18th BRICS Summit at Bharat Mandapam, New Delhi."
+        },
+        {
+          "id": "q-2",
+          "question": "What is the total outlay approved for DILRMP 3.0 (Digital Land Records Modernization Programme)?",
+          "options": ["₹350.00 Crore", "₹480.20 Crore", "₹565.50 Crore", "₹720.00 Crore"],
+          "correctIndex": 2,
+          "explanation": "DILRMP 3.0 has been approved for 2026–2031 with a total outlay of ₹565.50 crore under the Ministry of Rural Development."
+        },
+        {
+          "id": "q-3",
+          "question": "How many digits are there in the Bhu-Aadhaar Unique Land Parcel Identification Number (ULPIN)?",
+          "options": ["10 digits", "12 digits", "14 digits", "16 digits"],
+          "correctIndex": 2,
+          "explanation": "Bhu-Aadhaar assigns a 14-digit Unique Land Parcel ID (ULPIN) for digital land tracking across India."
+        },
+        {
+          "id": "q-4",
+          "question": "What percentage of defense acquisitions approved by DAC in Sept 2026 will be sourced indigenously?",
+          "options": ["~50%", "~75%", "~98%", "100%"],
+          "correctIndex": 2,
+          "explanation": "Around 98% of the ₹1.10 Lakh Crore defence acquisitions approved by DAC will be sourced from Indian defense industry under Atmanirbhar Bharat."
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    "🔥 NEW: 18th BRICS Summit 2026 Daily Syllabus Sheet & Quiz Released!",
+    "🎓 UPSC / APPSC / TGPSC Daily Current Affairs Sheet updated with Telugu & English Notes.",
+    "🚀 Special Export Trade & Custom Guidance Batch Enrollments Open!"
+  ],
+  "leads": [
+    {
+      "id": "lead-1",
+      "date": "2026-09-13",
+      "name": "Ramesh Kumar",
+      "phone": "+91 9876543210",
+      "email": "ramesh.k@gmail.com",
+      "city": "Hyderabad",
+      "interest": "TGPSC / APPSC Guidance",
+      "status": "New"
+    },
+    {
+      "id": "lead-2",
+      "date": "2026-09-12",
+      "name": "Priya Sharma",
+      "phone": "+91 9123456789",
+      "email": "priya.s@gmail.com",
+      "city": "Visakhapatnam",
+      "interest": "Export Import Mentorship",
+      "status": "Contacted"
+    }
+  ]
+}
